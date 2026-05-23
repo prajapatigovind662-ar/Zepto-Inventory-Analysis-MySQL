@@ -105,25 +105,6 @@ The project demonstrates how SQL can transform raw e-commerce inventory data int
 
 ---
 
-## 📸 Project Screenshots
-
-### Cover Page
-![Cover](images/cover_page.png)
-
-### Dataset Overview
-![Dataset](images/dataset_overview.png)
-
-### Business Insights
-![Insights](images/business_insights.png)
-
-### Recommendations
-![Recommendations](images/recommendations.png)
-
-### Conclusion
-![Conclusion](images/conclusion.png)
-
----
-
 ## 📂 Project Structure
 
 ```text
